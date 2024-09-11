@@ -72,7 +72,7 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/fdc8e634-d87e-4037-a942-237638618558)
 
 # Backlog do produto
-![BacklogProd](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/f39a1606-fb89-4307-925f-5b50cc807bbe)
+![BacklogProd](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/2fedb722f6d31c2b947484f5852c7fbaac90de40/Sprint%2012.png)
 
 # Backlog das Sprints
 ## Sprint 1
