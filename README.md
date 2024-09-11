@@ -22,12 +22,12 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 08/03/2024 | A fazer | [Ver Relatório]() | 
-|01| 19/04/2024 | A fazer | [Ver Relatório]() | 
-|02| 10/05/2024 | A fazer | [Ver Relatório]()| 
-|03| 07/06/2024 | A fazer |[Ver Relatório]() | 
-|04| 21/06/2024 | A fazer | [Ver Relatório]()
-|Feira de Soluções|27/06/2024​ | A fazer | | 
+|Kick Off | 30/08/2024 | Concluido | [Ver Relatório]() | 
+|0| 27/09/2024 | A fazer | [Ver Relatório]() | 
+|1| 18/10/2024 | A fazer | [Ver Relatório]()| 
+|2| 08/11/2024 | A fazer |[Ver Relatório]() | 
+|3| 29/11/2024| A fazer | [Ver Relatório]()
+|Feira de Soluções| 12/12/2024​ | A fazer | | 
 
 # Equipe
 <div align="center">
@@ -147,8 +147,8 @@ Requisitos não funcionais
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | João Augusto Amaral da Silva |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()              |
-| Scrum Master  | Pedro Calderaro Martins |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-calderaro-175462262/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/calderaro190) |
+| Scrum Master  | Dener da Silva Barros |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dener-barros-4114739b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DENER92) |
 | Development team  | Danubia Mayumi Aihara |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanubiaAihara) |
 |  Development team  | Graziele Cristina de Almeida Santos |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graziele-santos-38407225a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GrazieleAlmeida) |
 |  Development team  | Denner Miguel de Andrade Lima |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denner-lima-874b65216/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmiguelima) |
-|  Development team  | Dener da Silva Barros |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dener-barros-4114739b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DENER92) |
+|  Development team  | Pedro Calderaro Martins |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-calderaro-175462262/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/calderaro190) |
