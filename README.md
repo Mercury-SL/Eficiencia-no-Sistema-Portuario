@@ -35,8 +35,8 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
 # Objetivo do Projeto
-* Esta pesquisa se propõe a examinar a análise e otimização de uma empresa embarcadora estabelecida no Estado de São Paulo. Ao longo deste estudo, serão abordados diversos aspectos, como a análise dos processos logísticos, gestão de estoque, transporte e distribuição, bem como a utilização de tecnologias e ferramentas de gestão para melhorar a eficiência operacional e reduzir custos.
-* Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga utilizando SQL para criação e modelagem de banco de dados e o Power BI para a criação de um visualizador dos indicadores.
+* Esta pesquisa se propõe a examinar a do sistema portuário, identificando a variação mensal da prancha média operacional de carregamento de granéis (t/h) de 2014 a 2023 e desenvolvendo um modelo de projeção com base em tendência, avaliar a distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis e elaborar um ranking de eficiência dos 10 principais terminais de movimentação de grãos com base na quantidade de berços e na prancha média operacional.
+* Análise de produtividade de berços, utilizando SQL para criação e modelagem de banco de dados, juntamente com a frramenta R e o Power BI para a criação de um visualizador dos indicadores.
 
 # Funcionalidades e registros das sprints
 
