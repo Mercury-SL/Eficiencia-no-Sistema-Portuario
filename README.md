@@ -22,8 +22,8 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2024 | Concluido | [Ver Relatório]() | 
-|0| 27/09/2024 | A fazer | [Ver Relatório]() | 
+|Kick Off | 30/08/2024 | Concluido |  | 
+|0| 27/09/2024 | Em progresso | [Ver Relatório]() | 
 |1| 18/10/2024 | A fazer | [Ver Relatório]()| 
 |2| 08/11/2024 | A fazer |[Ver Relatório]() | 
 |3| 29/11/2024| A fazer | [Ver Relatório]()
@@ -62,16 +62,14 @@ Sprint | Previsão | Status| Histórico|
 - [Scrum](https://youtu.be/HlmiVz0SqNQ)
 
 ## Dados gerados
-  - [Python](https://drive.google.com/file/d/1kn-6R9s17_RMmvS5xNLqF6CUIv6MN0de/view?usp=drive_link)
-##### Código - SQL SERVER
-  - [Alteração das tabelas](https://drive.google.com/file/d/1HB_dbKe7Gv9ictLm5kJpwi06ky_bS7Sb/view?usp=drive_link)
+  - [Python]
 
 # Cronograma das Sprints
 
-## Sprint 1
+## Sprint 0
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/fdc8e634-d87e-4037-a942-237638618558)
 
-# Backlog do produto
+# Backlog
 ![BacklogProd](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/d32c074cbcb9247f6aa87be7536630672b1f66bd/Backlog%20eficiencia%20no%20sistemas.png)
 
 # Backlog das Sprints
@@ -87,16 +85,14 @@ Sprint | Previsão | Status| Histórico|
 # Regras de Negócio
 
 Requisitos funcionais 
-* Uma estrutura de banco de dados relacional;
-* Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
-* Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
-* Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
-
+* Interface no Power BI para avaliação de indicadores portuários;
+* Modelo de projeção de tendência da produtividade dos shiploaders;
+* Rankeamento dos portos por meio de aplicação do DEA.
 
 Requisitos não funcionais
 * Metodologia ágil.
 * Usar tecnologias específicas/apoio/tecnológicas.
-* Power BI / SQL / Jira / Python / Canvas / Figma.
+* Power BI / Jira / Python / Canvas / Figma / R.
   
 # Burndown
 ## Sprint 1
