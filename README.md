@@ -76,13 +76,13 @@ Sprint | Previsão | Status| Histórico|
 ![_sprint 0](https://github.com/user-attachments/assets/f0541b73-6f8f-474b-9a46-32e0bf8dbb2f)
 
 ## Sprint 1
-![sprint 1](https://github.com/user-attachments/assets/9e223dca-34fd-42e6-b798-c635732bf1ba)
+![_sprint 1](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407)
 
 ## Sprint 2
-![5W2H](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/eb743559721db04bb58e982ab46f65bfa1a858a8/sprint%202.png)
+![5W2H](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407dsadads)
 
 ## Sprint 3
-![5w2h sprint 3](https://github.com/user-attachments/assets/72f89840-7c4a-4f21-b95e-3294d1ee66a6)
+![5w2h sprint 3](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407sadsadasdsad)
 
 
 # Regras de Negócio
