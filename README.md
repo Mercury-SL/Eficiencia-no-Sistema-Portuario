@@ -65,7 +65,6 @@ Sprint | Previsão | Status| Histórico|
   - [Python]
 
 # Cronograma das Sprints
-
 ## Sprint 0
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/fdc8e634-d87e-4037-a942-237638618558)
 
@@ -74,7 +73,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog das Sprints
 ## Sprint 0
-![sprint 0](https://github.com/user-attachments/assets/b616e625-2f9a-429e-9089-b6f78aa3a0cb)
+![_sprint 0](https://github.com/user-attachments/assets/f0541b73-6f8f-474b-9a46-32e0bf8dbb2f)
 
 ## Sprint 1
 ![sprint 1](https://github.com/user-attachments/assets/9e223dca-34fd-42e6-b798-c635732bf1ba)
