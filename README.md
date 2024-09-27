@@ -36,7 +36,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 * Esta pesquisa se propõe a examinar a do sistema portuário, identificando a variação mensal da prancha média operacional de carregamento de granéis (t/h) de 2014 a 2023 e desenvolvendo um modelo de projeção com base em tendência, avaliar a distribuição estatística dos tempos portuários de operação no berço para carregamento de granéis e elaborar um ranking de eficiência dos 10 principais terminais de movimentação de grãos com base na quantidade de berços e na prancha média operacional.
-* Análise de produtividade de berços, utilizando SQL para criação e modelagem de banco de dados, juntamente com a frramenta R e o Power BI para a criação de um visualizador dos indicadores.
+* Análise de produtividade de berços, utilizando SQL para criação e modelagem de banco de dados, juntamente com a ferramenta R e o Power BI para a criação de um visualizador dos indicadores.
 
 # Funcionalidades e registros das sprints
 
@@ -98,15 +98,14 @@ Requisitos não funcionais
 ## Sprint 1
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/a86b02ee-97f0-457c-9cfc-caca0cf06009)
 
-## Sprint 1. Concepção
+## Sprint 0
+- [x] Documentação - Sprint 0;
 - [x] Criação e organização do Github;
-- [x] Definição de posições de cada membro;
-- [x] Pesquisa de comprometimento da equipe;
 - [x] Criação e organização do Jira Software;
+- [x] Análise, compreensão e filtragem dos dados;
 - [x] Aplicação do 5W2H;
-- [x] Estudo e compreensão da base de dados;
-- [x] Reunião final - Sprint 0;
-- [x] Nivelamento de conhecimento sobre a base de dados;
+- [x] Criação do banco de dados no Python;
+- [x] Compreensão das etapas do projeto;
 
 # Competências desenvolvidas
 
