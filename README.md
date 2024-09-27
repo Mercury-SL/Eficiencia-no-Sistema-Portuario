@@ -82,6 +82,10 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 2
 ![5W2H](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/eb743559721db04bb58e982ab46f65bfa1a858a8/sprint%202.png)
 
+## Sprint 3
+![5w2h sprint 3](https://github.com/user-attachments/assets/72f89840-7c4a-4f21-b95e-3294d1ee66a6)
+
+
 # Regras de Negócio
 
 Requisitos funcionais 
@@ -95,8 +99,8 @@ Requisitos não funcionais
 * Power BI / Jira / Python / Canvas / Figma / R.
   
 # Burndown
-## Sprint 1
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/a86b02ee-97f0-457c-9cfc-caca0cf06009)
+## Sprint 0
+![Burndown Sprint 0](https://github.com/user-attachments/assets/4ed8c651-8f2a-4488-a242-bbe1c2732361)
 
 ## Sprint 0
 - [x] Documentação - Sprint 0;
