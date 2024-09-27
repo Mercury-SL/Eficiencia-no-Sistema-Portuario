@@ -74,10 +74,10 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog das Sprints
 ## Sprint 0
-![5W2H](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/eb743559721db04bb58e982ab46f65bfa1a858a8/sprint%200.png)
+![sprint 0](https://github.com/user-attachments/assets/b616e625-2f9a-429e-9089-b6f78aa3a0cb)
 
 ## Sprint 1
-![5W2H](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/eb743559721db04bb58e982ab46f65bfa1a858a8/sprint%201.png)
+![sprint 1](https://github.com/user-attachments/assets/9e223dca-34fd-42e6-b798-c635732bf1ba)
 
 ## Sprint 2
 ![5W2H](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/eb743559721db04bb58e982ab46f65bfa1a858a8/sprint%202.png)
