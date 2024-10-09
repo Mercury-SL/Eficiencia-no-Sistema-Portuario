@@ -82,7 +82,9 @@ Este repositório contém um notebook de exemplo para filtrar e manipular dados 
 
 # Cronograma das Sprints
 ## Sprint 0
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/fdc8e634-d87e-4037-a942-237638618558)
+![image](https://github.com/user-attachments/assets/51d8e155-cb18-4dcb-928b-27ed2455c2ce)
+
+## Sprint 1
 
 # 5W2H
 ![BacklogProd](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/d32c074cbcb9247f6aa87be7536630672b1f66bd/Backlog%20eficiencia%20no%20sistemas.png)
