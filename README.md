@@ -92,7 +92,7 @@ Este repositório contém um notebook de exemplo para filtrar e manipular dados 
 ![_sprint 0](https://github.com/user-attachments/assets/f0541b73-6f8f-474b-9a46-32e0bf8dbb2f)
 
 ## Sprint 1
-![_sprint 1](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407)
+![_sprint 1](https://github.com/user-attachments/assets/a3174a28-6529-4789-84ee-b96f2970829c)
 
 ## Sprint 2
 ![5W2H](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407dsadads)
