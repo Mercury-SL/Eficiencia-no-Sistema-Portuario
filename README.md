@@ -73,6 +73,10 @@ Este repositório contém um notebook de exemplo para filtrar e manipular dados 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga1.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga2.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Atracacao.ipynb)
+
 ## Instruções de uso
 
 1. Faça o upload do arquivo `.txt` usando a célula de código fornecida.
