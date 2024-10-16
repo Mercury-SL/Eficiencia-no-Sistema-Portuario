@@ -61,17 +61,17 @@ Sprint | Previsão | Status| Histórico|
 - [5W2H](https://youtu.be/M4dNnrcUq9s)
 - [Scrum](https://youtu.be/HlmiVz0SqNQ)
 
-## Dados gerados
-  - [Python]
-  - # Análise de Dados com Pandas no Google Colab
+# Dados gerados
 
-Este repositório contém um notebook de exemplo para filtrar e manipular dados usando o Google Colab.
+## Análise de Dados com Pandas no Google Colab
 
-## Como abrir
+- Este repositório contém um notebook de exemplo para filtrar e manipular dados usando o Google Colab.
+
+### Como abrir
 
 - Clique no botão abaixo para abrir diretamente no Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga1.ipynb)
+1- Carga: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga1.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga2.ipynb)
 
@@ -81,7 +81,7 @@ Este repositório contém um notebook de exemplo para filtrar e manipular dados 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga_Final.ipynb)
 
-## Instruções de uso
+### Instruções de uso
 
 1. Faça o upload do arquivo `.txt` usando a célula de código fornecida.
 2. Siga as etapas no notebook para carregar, filtrar e salvar os dados.
