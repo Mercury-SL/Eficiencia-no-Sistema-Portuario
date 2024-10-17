@@ -71,15 +71,15 @@ Sprint | Previsão | Status| Histórico|
 
 - Clique no botão abaixo para abrir diretamente no Google Colab:
 
-1- Carga: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga1.ipynb)
+  - #### Gerar arquivo carga do ano escolhido deixando apenas granel sólido e removendo colunas desnecessarias: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga2.ipynb)
+   - #### Filtragem de todos idatracação que não são granel solido gerando um arquivo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga2.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Atracacao.ipynb)
+   - #### Pega o arquivo do segundo link e exclui do arquivo atracação todos idatracação que não são carga exclusiva granel solido e gera um arquivo atracação do ano escolhido: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Atracacao.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/AtracacaoFinal.ipynb)
+   - #### Junta todas as atracação define as colunas data e hora, cria três colunas novas e converte em CSV: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/AtracacaoFinal.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga_Final.ipynb)
+    - #### Junta todas as cargas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/main/Carga_Final.ipynb)
 
 ### Instruções de uso
 
