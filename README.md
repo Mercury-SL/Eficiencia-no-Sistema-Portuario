@@ -128,6 +128,9 @@ Requisitos não funcionais
 ## Sprint 0
 ![Burndown Sprint 0](https://github.com/user-attachments/assets/4ed8c651-8f2a-4488-a242-bbe1c2732361)
 
+## Sprint 1
+![Burndown Sprint 1](https://github.com/user-attachments/assets/699b8104-3a93-459c-8161-808502160c4b)
+
 ## Sprint 0
 - [x] Documentação - Sprint 0;
 - [x] Criação e organização do Github;
