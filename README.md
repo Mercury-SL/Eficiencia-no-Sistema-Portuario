@@ -93,6 +93,7 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/user-attachments/assets/51d8e155-cb18-4dcb-928b-27ed2455c2ce)
 
 ## Sprint 1
+![Cronograma da Sprint 1](https://github.com/user-attachments/assets/18f57105-4cff-4791-ba70-cced094e9441)
 
 # 5W2H
 ![BacklogProd](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/d32c074cbcb9247f6aa87be7536630672b1f66bd/Backlog%20eficiencia%20no%20sistemas.png)
