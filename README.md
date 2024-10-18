@@ -105,7 +105,8 @@ Sprint | Previsão | Status| Histórico|
 ![_sprint 1](https://github.com/user-attachments/assets/a3174a28-6529-4789-84ee-b96f2970829c)
 
 ## Sprint 2
-![5W2H](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407dsadads)
+![_sprint 2](https://github.com/user-attachments/assets/aa489342-9524-4844-9082-3f1c918ada12)
+
 
 ## Sprint 3
 ![5w2h sprint 3](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407sadsadasdsad)
@@ -136,6 +137,17 @@ Requisitos não funcionais
 - [x] Criação do banco de dados no Python;
 - [x] Compreensão das etapas do projeto;
 
+## Sprint 1
+- [x] Atualização da documentação - Sprint 1;
+- [x] Atualização e organização do Github;
+- [x] Aprendizagem da ferramenta R;
+- [x] Compreensão dos processos portuários;
+- [X] Calculo de êficiencia DEA(R);
+- [x] Modelagem dos dados 
+- [x] Indentificação do tempo de operação dos berços (Python);
+- [x] Definição do layout padrão do aplicativo (Figma);
+
+      
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
