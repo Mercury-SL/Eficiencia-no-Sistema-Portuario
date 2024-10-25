@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 30/08/2024 | Concluido |  | 
 |0| 27/09/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1zPJuIFDYQ2cSrrk6XRBIIfY_vp2u6Yp4/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |1| 18/10/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1uM8Sw0EQS6N7pllvTRd0UUs5odZOPmyS/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|2| 08/11/2024 | A fazer |[Ver Relatório]() | 
+|2| 08/11/2024 | em progresso |[Ver Relatório]() | 
 |3| 29/11/2024| A fazer | [Ver Relatório]()
 |Feira de Soluções| 12/12/2024​ | A fazer | | 
 
@@ -106,7 +106,7 @@ Sprint | Previsão | Status| Histórico|
 ![_sprint 1](https://github.com/user-attachments/assets/a3174a28-6529-4789-84ee-b96f2970829c)
 
 ## Sprint 2
-![_sprint 2](https://github.com/user-attachments/assets/aa489342-9524-4844-9082-3f1c918ada12)
+![_sprint 2](https://github.com/user-attachments/assets/00da5299-391d-492a-a0ec-a0d56a305cc0)
 
 
 ## Sprint 3
