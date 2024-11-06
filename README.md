@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 
 ### Sprint 2 
 <div align="left">
-<img src="" width="600px") />
+<img src="https://github.com/user-attachments/assets/a6f22e54-985d-4388-bb4f-eb2b1b0d1b47.GIF" width="600px") />
 </div>
 
 ## Tecnologias Utilizadas
