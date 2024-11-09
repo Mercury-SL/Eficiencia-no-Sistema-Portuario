@@ -157,6 +157,16 @@ Requisitos não funcionais
 - [x] Indentificação do tempo de operação dos berços (Python);
 - [x] Definição do layout padrão do aplicativo (Figma);
 
+## Sprint 2
+- [x] Exibição do ranking no (PowerBI)
+- [x] Compreensão do método utilizado para análise histórica
+- [x] Atualização da documentação
+- [x] Atualização do Github
+- [X] Análise histórica e sua respectiva tendência (PowerBI)
+- [x] Cálculo e geração da prancha média (t/h)- (Python)
+- [x] Pesquisa sobre acontecimentos futuros de impacto nos portos top 10
+- [x] Atualização do Layout (Figma)
+
       
 # Competências desenvolvidas
 
