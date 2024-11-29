@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 - Github
 - Jira
 - Figma
-- Genially
+- [Python](https://drive.google.com/file/d/1hEJPFS_Pqn2GlcWOUc0V8oSqVaha_2nK/view?usp=drive_link) 
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
