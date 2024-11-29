@@ -115,8 +115,7 @@ Sprint | Previsão | Status| Histórico|
 ![_sprint 2](https://github.com/user-attachments/assets/00da5299-391d-492a-a0ec-a0d56a305cc0)
 
 ## Sprint 3
-![5w2h sprint 3](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407sadsadasdsad)
-
+![Sprint 3](https://github.com/user-attachments/assets/88933338-a175-43f8-be4b-2d7a8563b32e)
 
 # Regras de Negócio
 
@@ -172,7 +171,7 @@ Requisitos não funcionais
 - [x] Pesquisa sobre acontecimentos futuros de impacto nos portos top 10
 - [x] Atualização do Layout (Figma)
 
-## Sprint 2
+## Sprint 3
 - [x] Exibição dos resultados do tempo de espera
 - [x] Finalização da documentação
 - [x] Finalização GitHub
