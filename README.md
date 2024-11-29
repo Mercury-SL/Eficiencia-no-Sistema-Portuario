@@ -98,6 +98,9 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 2
 ![image](https://github.com/user-attachments/assets/f5974ba9-434e-422b-9ebe-a78a67fe359c)
 
+## Sprint 3
+![image](https://github.com/user-attachments/assets/f6eb4d8b-0475-4505-a770-97c38ccd2e5c)
+
 # 5W2H
 ![BacklogProd](https://github.com/Mercury-SL/Eficiencia-no-Sistema-Portuario/blob/d32c074cbcb9247f6aa87be7536630672b1f66bd/Backlog%20eficiencia%20no%20sistemas.png)
 
@@ -110,7 +113,6 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 2
 ![_sprint 2](https://github.com/user-attachments/assets/00da5299-391d-492a-a0ec-a0d56a305cc0)
-
 
 ## Sprint 3
 ![5w2h sprint 3](https://github.com/user-attachments/assets/5a61e6fe-6248-4ff0-9c3e-5d2d5207f407sadsadasdsad)
@@ -137,6 +139,9 @@ Requisitos não funcionais
 
 ## Sprint 2
 ![Burndown Sprint 2](https://github.com/user-attachments/assets/e051aa95-0259-47d3-9dbd-094d11eb82f5)
+
+## Sprint 3
+![image](https://github.com/user-attachments/assets/4d17f6bd-1ecb-49a3-aece-7e917d454336)
 
 ## Sprint 0
 - [x] Documentação - Sprint 0;
@@ -167,7 +172,11 @@ Requisitos não funcionais
 - [x] Pesquisa sobre acontecimentos futuros de impacto nos portos top 10
 - [x] Atualização do Layout (Figma)
 
-      
+## Sprint 2
+- [x] Exibição dos resultados do tempo de espera
+- [x] Finalização da documentação
+- [x] Finalização GitHub
+ 
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
@@ -176,18 +185,18 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Jira | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Github | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Jira | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Github | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Figma | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Figma | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | 5W2H | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Google Maps | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Metodologia agil | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Project Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Project Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
