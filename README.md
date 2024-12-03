@@ -4,6 +4,12 @@ Empresa fundada para realização do projeto integrador do segundo semestre de l
 
 Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento entre os membros proporcionando a proatividade, trabalho em equipe, responsabilidade. Ocasionando a colaboração e Entrega de Resultados dos universitarios enredados.
 
+## Quer conhecer mais o trabalho da Equipe Mercury? Dá uma olhada nos demais projetos já desenvolvidos:
+
+- [Mapeamento Setorial do RMVale](https://github.com/Mercury-SL/Mapeamento-Setorial-RMVALE)
+- [Análise dos Fluxos de Importação e Exportação](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao)
+- [Análise e Otimização de uma Empresa Embarcadora](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora)
+
 # Índice
 
 * [Projeto](#projeto)
