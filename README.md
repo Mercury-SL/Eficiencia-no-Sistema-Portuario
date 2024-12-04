@@ -45,10 +45,14 @@ Sprint | Previsão | Status| Histórico|
 * Análise de produtividade de berços, utilizando SQL para criação e modelagem de banco de dados, juntamente com a ferramenta R e o Power BI para a criação de um visualizador dos indicadores.
 
 # Funcionalidades e registros das sprints
-
 ### Sprint 2 
 <div align="left">
 <img src="https://github.com/user-attachments/assets/7d833ad6-5531-4810-8e94-19a2cd36deea" width="600px") />
+</div>
+
+### Sprint 3 
+<div align="left">
+<img src="https://github.com/user-attachments/assets/4ce408d7-4d12-4745-a6b8-c22d7b6fe622" width="600px") />
 </div>
 
 ## Tecnologias Utilizadas
