@@ -32,8 +32,8 @@ Sprint | Previsão | Status| Histórico|
 |0| 27/09/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1zPJuIFDYQ2cSrrk6XRBIIfY_vp2u6Yp4/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |1| 18/10/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1uM8Sw0EQS6N7pllvTRd0UUs5odZOPmyS/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |2| 08/11/2024 | Concluído |[Ver Relatório](https://docs.google.com/document/d/1Q5pkh3jbjCbp7N8QpB4SkrcESHXNGY_u/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|3| 29/11/2024| Concluído | [Ver Relatório](https://docs.google.com/document/d/1uL8LlgxrX7AmRUEnjxE-h7bfKUQFnl_V/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
-|Feira de Soluções| 12/12/2024​ | Em progresso | | 
+|3| 29/11/2024| Concluído | [Ver Relatório](https://docs.google.com/document/d/1uL8LlgxrX7AmRUEnjxE-h7bfKUQFnl_V/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) |
+|Feira de Soluções| 12/12/2024​ | Concluído | [Ver Relatório](https://drive.google.com/file/d/1RufmvdXxHkY8mAbH1omQatpjikYLl5sb/view?usp=drive_link) | 
 
 # Equipe
 <div align="center">
